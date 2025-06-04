@@ -57,7 +57,7 @@ while True:
 face_data = np.asarray(face_data)
 face_data = face_data.reshape((face_data.shape[0], -1))
 print(face_data.shape)
-
+#testing
 # save data into file system
 np.save(dataset_path+file_name+'.npy', face_data)
 print("data saved successfully!!!")
