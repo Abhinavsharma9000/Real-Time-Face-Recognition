@@ -4,7 +4,7 @@ This project enables face detection and recognition directly from a live webcam 
 
 It captures face data, stores it efficiently, and uses KNN for recognizing individuals in real time.
 
-********************************************************************************************************************************************************************
+*******************************************************************************************************************************************************************
 🚀 Features
 🎥 Real-Time Face Detection & Recognition via webcam
 
@@ -16,7 +16,7 @@ It captures face data, stores it efficiently, and uses KNN for recognizing indiv
 
 ⚡ Minimal Dependencies – Easy to understand and deploy
 
-*******************************************************************************************************************************************************************
+******************************************************************************************************************************************************************
 
 📁 Project Structure
 bash
@@ -29,7 +29,7 @@ Edit
 ├── haarcascade_frontalface_alt.xml  # Haar cascade model for face detection
 └── README.md                        # Project documentation
 
-*******************************************************************************************************************************************************************
+******************************************************************************************************************************************************************
 
 📸 How It Works
 Collect face data using face_data_collect.py, which captures images from your webcam and saves them as .npy arrays.
@@ -48,7 +48,7 @@ Uses KNN to find the closest match
 
 Displays live video with bounding boxes and predicted names
 
-*******************************************************************************************************************************************************************
+******************************************************************************************************************************************************************
 
 ✅ Requirements
 Python 3.x
