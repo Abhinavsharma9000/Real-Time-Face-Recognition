@@ -4,7 +4,7 @@ This project enables face detection and recognition directly from a live webcam 
 
 It captures face data, stores it efficiently, and uses KNN for recognizing individuals in real time..
 
-*******************************************************************************************************************************************************************
+******************************************************************************************************************************************************************
 🚀 Features
 🎥 Real-Time Face Detection & Recognition via webcam
 
