@@ -1,5 +1,5 @@
 #🧠Real-Time Face Recognition using OpenCV & KNN
-Welcome to the Real-Time Face Recognition System – a lightweight, real-time computer vision project built using OpenCV and the K-Nearest Neighbors (KNN) algorithm. 
+#Welcome to the Real-Time Face Recognition System – a lightweight, real-time computer vision project built using OpenCV and the K-Nearest Neighbors (KNN) algorithm. 
 This project enables face detection and recognition directly from a live webcam feed — no deep learning required!
 
 It captures face data, stores it efficiently, and uses KNN for recognizing individuals in real time..
